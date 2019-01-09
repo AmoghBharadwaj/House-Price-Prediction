@@ -5644,12 +5644,12 @@ sns.barplot(x='importance', y='index', data=top_features, label='Total', color='
 - I started the process with Data Cleaning, Data Preprocessing and Outlier detection. After that we did feature engineering and removed the redundant features.
 - Once the data was ready we started fitting the data and based on our evaluation we predicted the house prices on the test data.
 - We also got to know important features using Random Forest feature importance.
- - Above grade (ground) living area square feet
- - Total square feet of basement area
- - Original construction date
- - Size of garage in car capacity
- - total number of bathrooms available
- - External quality of the house
+  - Above grade (ground) living area square feet
+  - Total square feet of basement area
+  - Original construction date
+  - Size of garage in car capacity
+  - total number of bathrooms available
+  - External quality of the house
 
  are some of the features which contribute the most to the house prices, which really makes sense going by our intuition. 
 
